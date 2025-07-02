@@ -74,5 +74,5 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 
 ## Contact
 
-Reach out: Main developer - [giteshsingla7@gmail.com](mailto:giteshsingla7@gmail.com) 
-           Assisting developer - [tiwarishivramkrishna@gmail.com](mailto:tiwarishivramkrishna@gmail.com)
+Reach out: Main developer - [2k22.it.32512@gmail.com](https://github.com/himanshushukla02)
+           Assisting developer - [2k22.it.32788@gmail.com](https://github.com/avneesh7207)
